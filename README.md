@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+## ✨GitHub State
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdwldns00&show_icons=true&theme=radical&count_private=true)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdwldns00&layout=compact)](https://github.com/rkdwldns00/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
